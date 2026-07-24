@@ -1,0 +1,6 @@
+{
+  "name": "Dhillon Sparkle Store",
+  "description": "Where Elegance Meets Timeless Craftsmanship. Discover handcrafted jewelry designed to celebrate every milestone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

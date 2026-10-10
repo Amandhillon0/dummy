@@ -11,7 +11,7 @@ export const products = [
     price: "₹34,999",
     specs: "22K Gold | Handcrafted Design | Adjustable Length",
     desc: "An elegant necklace perfect for weddings and festive occasions.",
-    img: "/photo/jewellery%202.webp"
+    img: "/photo/shopping (1).webp"
   },
   {
     name: "Pearl Elegance Earrings",

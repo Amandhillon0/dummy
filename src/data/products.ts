@@ -25,14 +25,14 @@ export const products = [
     price: "₹24,999",
     specs: "Cubic Zirconia Stones | Rhodium Finish | Premium Clasp Lock",
     desc: "A luxurious bracelet offering exceptional shine and comfort.",
-    img: "/photto/shopping.webp"
+    img: "/photto/braclet.webp"
   },
   {
     name: "Emerald Charm Pendant",
     price: "₹18,999",
     specs: "Lab-Created Emerald | 18K Gold Plating | Includes Chain",
     desc: "A vibrant pendant designed to enhance any outfit.",
-    img: "/photo/1.jpg"
+    img: "/photo/shopping12.webp"
   }
 ];
 

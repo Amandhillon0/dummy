@@ -4,14 +4,14 @@ export const products = [
     price: "₹59,999",
     specs: "18K White Gold | Certified Natural Diamond | Sizes: 6–10",
     desc: "A timeless diamond ring featuring a brilliant-cut center stone.",
-    img: "/photo/1.jpg"
+    img: "/photo/ring.webp"
   },
   {
     name: "Golden Grace Necklace",
     price: "₹34,999",
     specs: "22K Gold | Handcrafted Design | Adjustable Length",
     desc: "An elegant necklace perfect for weddings and festive occasions.",
-    img: "/photo/jewellery-2.webp"
+    img: "/photo/jewellery%202.webp"
   },
   {
     name: "Pearl Elegance Earrings",

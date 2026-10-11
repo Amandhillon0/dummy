@@ -39,9 +39,8 @@ export default function Contact() {
 
         <div className="mb-16">
           <img 
-            src "/photo/service.jpg" 
+            src = "/photo/service.jpg" 
             alt="Customer service representative" 
-            referrerPolicy="no-referrer"
             className="w-full h-64 md:h-96 object-cover rounded-[2.5rem] shadow-lg"
           />
         </div>

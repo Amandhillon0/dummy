@@ -3,31 +3,31 @@ import { Calendar } from 'lucide-react';
 const articles = [
   {
     title: "How to Choose the Perfect Engagement Ring",
-    date: "March 15, 2025",
+    date: "March 15, 2026",
     excerpt: "Choosing an engagement ring involves considering diamond quality, ring style, metal type, and personal preferences. Understanding the 4Cs can help you make a confident decision.",
-    img: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&q=80&w=800"
+    img: "/photo/caretips.jpg"
   },
   {
     title: "Jewelry Care Tips to Maintain Lasting Shine",
-    date: "April 2, 2025",
+    date: "April 2, 2026",
     excerpt: "Proper cleaning, safe storage, and routine inspections can keep your jewelry looking beautiful for years.",
-    img: "https://images.unsplash.com/photo-1599643477877-52648fb59a1f?auto=format&fit=crop&q=80&w=800"
+    img: "/photo/caretips.jpg"
   },
   {
-    title: "Top Jewelry Trends for 2025",
-    date: "May 10, 2025",
+    title: "Top Jewelry Trends for 2026",
+    date: "May 10, 2026",
     excerpt: "Minimalist gold pieces, colored gemstones, layered necklaces, and personalized jewelry continue to dominate fashion trends.",
-    img: "https://images.unsplash.com/photo-1511253819057-54070da6b5cc?auto=format&fit=crop&q=80&w=800"
+    img: "/photo/ceremonyring.jpg"
   },
   {
     title: "Understanding Diamond Certification",
-    date: "June 5, 2025",
+    date: "June 5, 2026",
     excerpt: "Diamond certification provides information about a diamond's quality, authenticity, and grading standards.",
     img: "https://images.unsplash.com/photo-1589674781759-c21c37956a44?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Choosing Jewelry for Special Occasions",
-    date: "July 1, 2025",
+    date: "July 1, 2026",
     excerpt: "Whether attending weddings, anniversaries, or formal events, selecting the right jewelry can elevate your appearance and confidence.",
     img: "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&q=80&w=800"
   }

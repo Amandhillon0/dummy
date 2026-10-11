@@ -60,13 +60,13 @@ export default function Home() {
               {
                 title: "Diamond Rings",
                 desc: "Exquisite diamond rings crafted with precision and exceptional quality.",
-                img: "https://images.unsplash.com/photo-1605100804763-247f66156ac4?auto=format&fit=crop&q=80&w=600",
+                img:"/photo/ring.webp",
                 link: "/products"
               },
               {
                 title: "Gold Necklaces",
                 desc: "Elegant gold necklaces that add sophistication to any outfit.",
-                img: "https://images.unsplash.com/photo-1599643478524-fb66f70d00a0?auto=format&fit=crop&q=80&w=600",
+                img: "/photo/jewellery 2.webp",
                 link: "/products"
               },
               {
@@ -78,7 +78,7 @@ export default function Home() {
               {
                 title: "Bracelets",
                 desc: "Beautiful bracelets designed to complement your unique personality.",
-                img: "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&q=80&w=600",
+                img: "braclet.webp",
                 link: "/products"
               }
             ].map((cat, i) => (

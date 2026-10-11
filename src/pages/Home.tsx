@@ -78,7 +78,7 @@ export default function Home() {
               {
                 title: "Bracelets",
                 desc: "Beautiful bracelets designed to complement your unique personality.",
-                img: "braclet.webp",
+                img: "/photo/bracelet2.webp",
                 link: "/products"
               }
             ].map((cat, i) => (

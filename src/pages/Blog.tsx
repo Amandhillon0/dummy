@@ -5,7 +5,7 @@ const articles = [
     title: "How to Choose the Perfect Engagement Ring",
     date: "March 15, 2026",
     excerpt: "Choosing an engagement ring involves considering diamond quality, ring style, metal type, and personal preferences. Understanding the 4Cs can help you make a confident decision.",
-    img: "/photo/caretips.jpg"
+    img: "/photo/ceremonyring.jpg"
   },
   {
     title: "Jewelry Care Tips to Maintain Lasting Shine",
@@ -17,7 +17,7 @@ const articles = [
     title: "Top Jewelry Trends for 2026",
     date: "May 10, 2026",
     excerpt: "Minimalist gold pieces, colored gemstones, layered necklaces, and personalized jewelry continue to dominate fashion trends.",
-    img: "/photo/ceremonyring.jpg"
+    img: "/photo/brend.jpg"
   },
   {
     title: "Understanding Diamond Certification",
